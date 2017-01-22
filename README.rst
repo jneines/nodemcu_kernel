@@ -2,7 +2,7 @@ This is a jupyter notebook kernel for communicating with a micropython enabled n
 attached via USB from within a jupyter notebook.
 
 This work has been directly derived from the ubit_kernel support for the BBC micro:bit 
-done by Thomas Kluyver which yoj can find `here <https://github.com/takluyver/ubit_kernel>`__.
+done by Thomas Kluyver which you can find `here <https://github.com/takluyver/ubit_kernel>`__.
 
 MicroPython is a variant of the Python programming language that runs on such
 tiny computers. It's a powerful way to program the NodeMcu. For tutorials
