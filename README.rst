@@ -1,5 +1,5 @@
-This is a jupyter notebook kernel for communicating with a micropython enabled nodemcu
-attached via USB from within a jupyter notebook.
+This is a `Jupyter notebook <https://jupyter.org/>`_ kernel for communicating with a `MicroPython <https://micropython.org/>`_ enabled
+`NodeMCU <https://en.wikipedia.org/wiki/NodeMCU>`_ attached via USB from within a Jupyter notebook.
 
 This work has been directly derived from the ubit_kernel support for the BBC micro:bit 
 done by Thomas Kluyver which you can find `here <https://github.com/takluyver/ubit_kernel>`__.
